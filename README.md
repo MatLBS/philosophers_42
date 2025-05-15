@@ -18,11 +18,10 @@ make
 
 ./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
 
-**Exemples:**
-./philo 4 500 200 200
+Exemples:
 
+./philo 4 500 200 20
 or
-
 ./philo 4 500 200 200 5
 ```
 ![Screenshot from 2024-11-14 13-01-02](https://github.com/user-attachments/assets/e1ce0c11-b1f0-40ec-9b69-3a810dacf02b)
