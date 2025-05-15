@@ -3,7 +3,8 @@
 ## Introduction
 In computer science, the dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them.
 It was originally formulated in 1965 by Edsger Dijkstra as a student exam exercise, presented in terms of computers competing for access to tape drive peripherals. Soon after, Tony Hoare gave the problem its present form.
-[README.md](https://github.com/user-attachments/files/20230941/README.md)# Philosophers_42
+![an_illustration_of_the_dining_philosophers_problem](https://github.com/user-attachments/assets/f920b2ed-b205-4b51-b482-0c385fd3e178)
+
 
 ## Introduction
 In computer science, the dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them.
@@ -29,7 +30,8 @@ Exemples:
 or
 ./philo 4 500 200 200 5
 ```
-![Screenshot from 2024-11-14 13-01-02](https://github.com/user-attachments/assets/e1ce0c11-b1f0-40ec-9b69-3a810dacf02b)
+![Capture d’écran 2025-05-15 à 13 40 50](https://github.com/user-attachments/assets/fed8bef0-9a89-4b1e-a2a2-c4bd84c2e447)
+
 
 ## Contributing
 
