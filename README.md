@@ -13,7 +13,7 @@ git clone https://github.com/MatLBS/philosophers_42.git
 cd philosophers_42/philo/
 ```
 2.Compile and lauch the project.
-```python
+
 make
 
 ./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
